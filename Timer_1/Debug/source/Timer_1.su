@@ -1,0 +1,8 @@
+fsl_gpio.h:197:20:GPIO_TogglePinsOutput	16	static
+fsl_dac.h:210:20:DAC_Enable	16	static
+fsl_adc16.h:382:20:ADC16_EnableHardwareTrigger	16	static
+fsl_adc16.h:500:24:ADC16_GetChannelConversionValue	16	static
+Timer_1.c:87:5:main	32	static
+Timer_1.c:125:13:SwTimerCallback	32	static
+Timer_1.c:133:13:dac_task	24	static
+Timer_1.c:161:13:adc_task	48	static

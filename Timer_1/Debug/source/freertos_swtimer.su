@@ -1,0 +1,5 @@
+fsl_gpio.h:197:20:GPIO_TogglePinsOutput	16	static
+fsl_dac.h:210:20:DAC_Enable	16	static
+freertos_swtimer.c:73:5:main	24	static
+freertos_swtimer.c:108:13:SwTimerCallback	16	static
+freertos_swtimer.c:113:13:dac_task	24	static
